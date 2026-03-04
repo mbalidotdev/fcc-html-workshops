@@ -55,3 +55,7 @@ _table_
 ### [10. Accessible Audio Controller](https://mbalidotdev.github.io/fcc-html-workshops/10_accessible_audio_controller)
 
 _accessibility, audio_
+
+## [11. HTML Video Player](https://mbalidotdev.github.io/fcc-html-workshops/11_html_video_player)
+
+_video, MIME types_
